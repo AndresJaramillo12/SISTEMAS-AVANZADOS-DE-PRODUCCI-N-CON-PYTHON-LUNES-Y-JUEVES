@@ -3,7 +3,7 @@ Este repositorio contiene los documentos, talleres y parciales de la clase de Si
 
 
 Contenido
--Taller 1
--Taller 2
--Taller 3
--Taller 4
+ -Taller 1
+ -Taller 2
+ -Taller 3
+ -Taller 4
